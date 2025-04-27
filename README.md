@@ -6,7 +6,6 @@ Built with **HTML**, **CSS**, and **JavaScript** to practice frontend developmen
 ## Features
 - Clean and responsive design
 - Book listings with images, titles, and descriptions
-- Search functionality (optional, if you added it)
 - User-friendly navigation
 
 

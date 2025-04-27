@@ -12,5 +12,5 @@ Built with **HTML**, **CSS**, and **JavaScript** to practice frontend developmen
 
 ## Technologies Used
 - HTML5
-- CSS3
-- JavaScript
+- CSS
+
